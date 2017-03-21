@@ -1,0 +1,32 @@
+/* CSS Document */
+.css-preview-wrapper {
+  padding: 20px;
+  border: dashed;
+  background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/gplaypattern.png');
+  padding:10px 5px 15px 2
+}
+<style>
+}
+h3 {
+text-transform: capitalize
+}
+
+p { 
+  color: rgb(55, 200, 60); 
+  font-weight: bolder; 
+  text-align: justify;
+  text-decoration: underline;
+  line-height: 150%;
+  font-family: Serif;
+  font-size: 105%;
+ }
+
+
+ul {
+   text-transform: capitalize
+   font-weight: normal
+
+blockquote {
+   color: rgb(0, 255, 0); 
+  }
+  </style>
